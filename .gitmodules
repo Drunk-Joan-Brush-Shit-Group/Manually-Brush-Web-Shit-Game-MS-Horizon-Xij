@@ -1,0 +1,3 @@
+[submodule "forza_auto_gear"]
+	path = forza_auto_gear
+	url = git@github.com:Juice-XIJ/forza_auto_gear.git
